@@ -14,3 +14,4 @@ To try it, run julia Ricci.jl.
 I'm doing a very non-sophisticated thing of created two sets of k points by default, and then if you want to bring in data from a file, you can uncomment some code.  
 
 ![Image of 3d cluster ](https://raw.githubusercontent.com/micah541/Ricci_Julia/master/250points.png)
+Contributor micah541 is partially supported by NSF grant DMS-1438359.
